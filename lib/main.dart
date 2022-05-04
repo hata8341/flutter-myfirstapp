@@ -35,7 +35,7 @@ class StartPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'スライドパズル',
+              'スライドパズル8',
               style: TextStyle(fontSize: 32),
             ),
             const SizedBox(height: 24),
