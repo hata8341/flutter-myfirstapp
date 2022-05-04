@@ -40,5 +40,6 @@ post_install do |installer|
 
     target.build_configurations.each do |build_configuration|
       build_configuration.build_settings['ENABLE_BITCODE'] = 'NO'
+    end
   end
 end
