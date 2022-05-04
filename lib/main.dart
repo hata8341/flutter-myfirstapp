@@ -44,7 +44,7 @@ class StartPage extends StatelessWidget {
                   return showPuzzlePage(context);
                 },
                 child: const Text(
-                  'スタート',
+                  'スタート!!',
                 ))
           ],
         ),
